@@ -36,7 +36,7 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 - **Hands-On Activity 1: C++ Programming Review & Environment Setup**
   * *Topics Covered:* C++ basics, functions, pointers, and IDE configuration.
 - **Hands-On Activity 2: Abstract Data Types (ADTs) & Complexity Analysis**
-  * *Topics Covered:* ADT concepts, space/time complexity evaluation ($O(n)$, $O(1)$).
+  * *Topics Covered:* ADT concepts, space/time complexity evaluation (O(n), O(1)).
 - **Hands-On Activity 3: Dynamic Memory Allocation & Arrays**
   * *Topics Covered:* Dynamic arrays, memory management using `new`/`delete`.
 - **Hands-On Activity 4: Singly Linked Lists**
