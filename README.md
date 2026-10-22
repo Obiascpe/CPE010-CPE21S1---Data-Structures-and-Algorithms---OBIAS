@@ -1,9 +1,8 @@
 # CPE 010: Data Structures and Algorithms
 
-**Course Code:** CPE 010  
-**Credits:** 2 Units (Laboratory) | **Contact Hours:** 6 Hours Laboratory  
-**Language:** C++  
-**Institution:** Technological Institute of the Philippines  
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=cplusplus)
+![Course Code](https://img.shields.io/badge/Course%20Code-CPE%20010-blue)
+![Institution](https://img.shields.io/badge/Institution-Technological%20Institute%20of%20the%20Philippines-yellow)
 
 ---
 
