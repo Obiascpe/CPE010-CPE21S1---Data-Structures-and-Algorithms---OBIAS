@@ -31,7 +31,7 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 
 ## 📂 Hands-On Activities Roadmap
 
-### 🟡 Prelim Period
+### 🟡 [Prelim Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM)
 
 - **Hands-on Activity 1.1 Basic C++ Programming**
   * *Topics Covered:* C++ syntax, basic functions, input/output, using pointers, and setting up the IDE.
