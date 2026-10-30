@@ -43,26 +43,28 @@ This repository contains the laboratory outputs and hands-on activities for **CP
   * *Topics Covered:* LIFO logic, implementing push, pop, and peek using arrays and linked lists.
 - **Hands-on Activity 5.1 Queues**
   * *Topics Covered:* FIFO logic, enqueue and dequeue operations, linear queues, circular queues, and priority queues.
-- **Hands-on Activity 6.1 Searching Techniques**
-  * *Topics Covered:* Linear search, binary search, loop-based vs. recursive search methods, and search efficiency.
+
 
 ---
 
 ### 🔵 Midterm Period
 
+- **Hands-on Activity 6.1 Searching Techniques**
+  * *Topics Covered:* Linear search, binary search, loop-based vs. recursive search methods, and search efficiency.
 - **Hands-on Activity 7.1 Sorting Algorithms Pt1**
   * *Topics Covered:* Basic sorting methods like Bubble Sort, Selection Sort, and Insertion Sort, plus comparing their performance.
 - **Hands-on Activity 8.1 Sorting Algorithms Pt2**
   * *Topics Covered:* Advanced sorting methods like Merge Sort, Quick Sort, and Heap Sort using divide-and-conquer.
 - **Hands-on Activity 9.1 Tree ADT**
   * *Topics Covered:* Binary Search Trees (BST), adding/deleting nodes, searching, and doing in-order, pre-order, and post-order traversals.
-- **Hands-on Activity 10.1 Graphs**
-  * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
+
 
 ---
 
 ### 🔴 Final Period
 
+- **Hands-on Activity 10.1 Graphs**
+  * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
 - **Hands-on Activity 11.1 Basic Algorithm Analysis**
   * *Topics Covered:* Big-O, Big-Omega, and Big-Theta notation, and figuring out time and space complexity like O(1), O(n), and O(n^2).
 - **Hands-on Activity 12.1 Algorithmic Strategies**
