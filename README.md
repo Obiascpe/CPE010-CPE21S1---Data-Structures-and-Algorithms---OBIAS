@@ -33,43 +33,43 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 
 ### 🟡 Prelim Period
 
-- **Hands-On Activity 1: C++ Programming Review & Environment Setup**
-  * *Topics Covered:* C++ basics, functions, pointers, and IDE configuration.
-- **Hands-On Activity 2: Abstract Data Types (ADTs) & Complexity Analysis**
-  * *Topics Covered:* ADT concepts, space/time complexity evaluation (O(n), O(1)).
-- **Hands-On Activity 3: Dynamic Memory Allocation & Arrays**
-  * *Topics Covered:* Dynamic arrays, memory management using `new`/`delete`.
-- **Hands-On Activity 4: Singly Linked Lists**
-  * *Topics Covered:* Node creation, insertion, deletion, and traversal in Singly Linked Lists.
-- **Hands-On Activity 5: Doubly & Circular Linked Lists**
-  * *Topics Covered:* Bidirectional pointers, circular references, and linked list variants.
-- **Hands-On Activity 6: Stacks (Array & Linked List Implementations)**
-  * *Topics Covered:* LIFO principles, `push`, `pop`, `peek`, and problem-solving with Stacks.
+- **Hands-on Activity 1.1 Basic C++ Programming**
+  * *Topics Covered:* C++ syntax, basic functions, input/output, using pointers, and setting up the IDE.
+- **Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation**
+  * *Topics Covered:* Array operations, pointer arithmetic, and using new and delete for dynamic memory allocation.
+- **Hands-on Activity 3.1 Linked Lists**
+  * *Topics Covered:* Creating nodes, inserting, deleting, and traversing singly, doubly, and circular linked lists.
+- **Hands-on Activity 4.1 Stacks**
+  * *Topics Covered:* LIFO logic, implementing push, pop, and peek using arrays and linked lists.
+- **Hands-on Activity 5.1 Queues**
+  * *Topics Covered:* FIFO logic, enqueue and dequeue operations, linear queues, circular queues, and priority queues.
+- **Hands-on Activity 6.1 Searching Techniques**
+  * *Topics Covered:* Linear search, binary search, loop-based vs. recursive search methods, and search efficiency.
 
 ---
 
 ### 🔵 Midterm Period
 
-- **Hands-On Activity 7: Queues (Array & Linked List Implementations)**
-  * *Topics Covered:* FIFO principles, Enqueue, Dequeue, Linear, and Circular Queues.
-- **Hands-On Activity 8: Linear & Binary Search Algorithms**
-  * *Topics Covered:* Search techniques, iteration vs. divide-and-conquer searching.
-- **Hands-On Activity 9: Hashing Techniques**
-  * *Topics Covered:* Hash functions, collision resolution strategies (chaining, open addressing).
-- **Hands-On Activity 10: Basic Sorting Algorithms**
-  * *Topics Covered:* Bubble Sort, Selection Sort, Insertion Sort, and performance comparison.
+- **Hands-on Activity 7.1 Sorting Algorithms Pt1**
+  * *Topics Covered:* Basic sorting methods like Bubble Sort, Selection Sort, and Insertion Sort, plus comparing their performance.
+- **Hands-on Activity 8.1 Sorting Algorithms Pt2**
+  * *Topics Covered:* Advanced sorting methods like Merge Sort, Quick Sort, and Heap Sort using divide-and-conquer.
+- **Hands-on Activity 9.1 Tree ADT**
+  * *Topics Covered:* Binary Search Trees (BST), adding/deleting nodes, searching, and doing in-order, pre-order, and post-order traversals.
+- **Hands-on Activity 10.1 Graphs**
+  * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
 
 ---
 
 ### 🔴 Final Period
 
-- **Hands-On Activity 11: Binary Trees & Binary Search Trees (BST)**
-  * *Topics Covered:* Tree ADT, node insertion, deletion, and searching in BSTs.
-- **Hands-On Activity 12: AVL Trees & Tree Traversals**
-  * *Topics Covered:* Self-balancing trees, tree rotations, In-order, Pre-order, and Post-order traversals.
-- **Hands-On Activity 13: Graph ADT & Representations**
-  * *Topics Covered:* Adjacency Matrix and Adjacency List graph structures.
-- **Hands-On Activity 14: Graph Traversal & Algorithmic Analysis**
-  * *Topics Covered:* Breadth-First Search (BFS), Depth-First Search (DFS), and experimental execution time measurement.
+- **Hands-on Activity 11.1 Basic Algorithm Analysis**
+  * *Topics Covered:* Big-O, Big-Omega, and Big-Theta notation, and figuring out time and space complexity like O(1), O(n), and O(n^2).
+- **Hands-on Activity 12.1 Algorithmic Strategies**
+  * *Topics Covered:* Problem-solving techniques including divide-and-conquer, greedy algorithms, dynamic programming, and backtracking.
+- **Hands-on Activity 13.1 Parallel Algorithms and Multithreading**
+  * *Topics Covered:* Multithreading basics, splitting tasks across threads, managing concurrency, and measuring speedup.
+- **Hands-on Activity 14.1 Algorithm Complexity**
+  * *Topics Covered:* Timing code execution manually, testing algorithms against different dataset sizes, and checking if real runtimes match theoretical Big-O.
 
 ---
