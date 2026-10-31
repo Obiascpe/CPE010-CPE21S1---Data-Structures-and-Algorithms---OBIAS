@@ -114,7 +114,7 @@ CPE 010: Data Structures and Algorithms
 
 ---
 
-### >> [Finals Period]()
+### >> [Finals Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/FINALS)
 
 - [**Hands-on Activity 10.1 Graphs**]()
   * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
