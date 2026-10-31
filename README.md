@@ -33,15 +33,15 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 
 ### 🟡 [Prelim Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM)
 
-- **Hands-on Activity 1.1 Basic C++ Programming**
+- [**Hands-on Activity 1.1 Basic C++ Programming**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA1.1)
   * *Topics Covered:* C++ syntax, basic functions, input/output, using pointers, and setting up the IDE.
-- **Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation**
+- [**Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA2.1)
   * *Topics Covered:* Array operations, pointer arithmetic, and using new and delete for dynamic memory allocation.
-- **Hands-on Activity 3.1 Linked Lists**
+- [**Hands-on Activity 3.1 Linked Lists**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA3.1)
   * *Topics Covered:* Creating nodes, inserting, deleting, and traversing singly, doubly, and circular linked lists.
-- **Hands-on Activity 4.1 Stacks**
+- [**Hands-on Activity 4.1 Stacks**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA4.1)
   * *Topics Covered:* LIFO logic, implementing push, pop, and peek using arrays and linked lists.
-- **Hands-on Activity 5.1 Queues**
+- [**Hands-on Activity 5.1 Queues**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA5.1)
   * *Topics Covered:* FIFO logic, enqueue and dequeue operations, linear queues, circular queues, and priority queues.
 
 
