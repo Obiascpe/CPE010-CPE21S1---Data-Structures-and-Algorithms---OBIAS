@@ -142,7 +142,7 @@ CPE 010: Data Structures and Algorithms
 
 ### >> [Midterm Period]()
 
-- Hands-on Activity 6.1 Searching Techniques**
+- **Hands-on Activity 6.1 Searching Techniques**
 - **Hands-on Activity 7.1 Sorting Algorithms Pt1**
 - **Hands-on Activity 8.1 Sorting Algorithms Pt2**
 - **Hands-on Activity 9.1 Tree ADT**
