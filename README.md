@@ -23,15 +23,50 @@
 
 ---
 
-## 📌 About The Course
+## > About The Course
 
 This repository contains the laboratory outputs and hands-on activities for **CPE 010 (Data Structures and Algorithms)**. The course focuses on solving computational problems using fundamental data structures, analyzing algorithmic efficiency (time and space complexity), and implementing optimized software solutions in C++.
 
 ---
 
-## 📂 Hands-On Activities Roadmap
+## > Repository Structure
+```text
+CPE 010: Data Structures and Algorithms
+├── PRELIM/
+│   ├── HOA1.1/
+│   │   ├── HOA.pdf
+│   │   ├── ILO.cpp
+│   │   └── ILO.h
+│   ├── HOA2.1/
+│   ├── HOA3.1/
+│   ├── HOA4.1/
+│   └── HOA5.1/
+├── MIDTERM/
+│   ├── HOA6.1/
+│   │   ├── HOA.pdf
+│   │   ├── ILO.cpp
+│   │   └── ILO.h
+│   ├── HOA7.1/
+│   ├── HOA8.1/
+│   └── HOA9.1/
+└── FINALS/
+    ├── HOA10.1/
+    │   ├── HOA.pdf
+    │   ├── ILO.cpp
+    │   └── ILO.h
+    ├── HOA11.1/
+    ├── HOA12.1/
+    ├── HOA13.1/
+    └── HOA14.1/
+```
 
-### 🟡 [Prelim Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM)
+**NOTE:** This section shows how the repository is structured across the Prelim, Midterm, and Final terms. Each period folder contains individual activity directories (`HOA`), which hold the lab report PDF (`HOA.pdf`) alongside the main C++ source code (`ILO.cpp`) and header files (`ILO.h`).
+
+---
+
+## > Hands-On Activities Roadmap
+
+### >> [Prelim Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM)
 
 - [**Hands-on Activity 1.1 Basic C++ Programming**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA1.1)
   * *Topics Covered:* C++ syntax, basic functions, input/output, using pointers, and setting up the IDE.
@@ -47,7 +82,7 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 
 ---
 
-### 🔵 Midterm Period
+### >> Midterm Period
 
 - **Hands-on Activity 6.1 Searching Techniques**
   * *Topics Covered:* Linear search, binary search, loop-based vs. recursive search methods, and search efficiency.
@@ -61,7 +96,7 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 
 ---
 
-### 🔴 Final Period
+### >> Finals Period
 
 - **Hands-on Activity 10.1 Graphs**
   * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
