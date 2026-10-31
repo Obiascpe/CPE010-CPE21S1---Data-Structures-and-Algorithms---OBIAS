@@ -81,7 +81,7 @@ CPE 010: Data Structures and Algorithms
 
 ---
 
-### >> Midterm Period
+### >> [Midterm Period]()
 
 - [**Hands-on Activity 6.1 Searching Techniques**]()
   * *Topics Covered:* Linear search, binary search, loop-based vs. recursive search methods, and search efficiency.
@@ -94,7 +94,7 @@ CPE 010: Data Structures and Algorithms
 
 ---
 
-### >> Finals Period
+### >> [Finals Period]()
 
 - [**Hands-on Activity 10.1 Graphs**]()
   * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
@@ -120,7 +120,7 @@ CPE 010: Data Structures and Algorithms
 
 ---
 
-### >> Midterm Period
+### >> [Midterm Period]()
 
 - [**Hands-on Activity 6.1 Searching Techniques**]()
 - [**Hands-on Activity 7.1 Sorting Algorithms Pt1**]()
@@ -129,7 +129,7 @@ CPE 010: Data Structures and Algorithms
 
 ---
 
-### >> Finals Period
+### >> [Finals Period]()
 - [**Hands-on Activity 10.1 Graphs**]()
 - [**Hands-on Activity 11.1 Basic Algorithm Analysis**]()
 - [**Hands-on Activity 12.1 Algorithmic Strategies**]()
