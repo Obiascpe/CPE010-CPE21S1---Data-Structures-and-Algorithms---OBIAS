@@ -64,7 +64,7 @@ CPE 010: Data Structures and Algorithms
 
 ---
 
-## > Hands-On Activities Roadmap
+## > Laboratory Activities
 
 ### >> [Prelim Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM)
 
@@ -79,34 +79,59 @@ CPE 010: Data Structures and Algorithms
 - [**Hands-on Activity 5.1 Queues**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/PRELIM/HOA5.1)
   * *Topics Covered:* FIFO logic, enqueue and dequeue operations, linear queues, circular queues, and priority queues.
 
-
 ---
 
 ### >> Midterm Period
 
-- **Hands-on Activity 6.1 Searching Techniques**
+- [**Hands-on Activity 6.1 Searching Techniques**]()
   * *Topics Covered:* Linear search, binary search, loop-based vs. recursive search methods, and search efficiency.
-- **Hands-on Activity 7.1 Sorting Algorithms Pt1**
+- [**Hands-on Activity 7.1 Sorting Algorithms Pt1**]()
   * *Topics Covered:* Basic sorting methods like Bubble Sort, Selection Sort, and Insertion Sort, plus comparing their performance.
-- **Hands-on Activity 8.1 Sorting Algorithms Pt2**
+- [**Hands-on Activity 8.1 Sorting Algorithms Pt2**]()
   * *Topics Covered:* Advanced sorting methods like Merge Sort, Quick Sort, and Heap Sort using divide-and-conquer.
-- **Hands-on Activity 9.1 Tree ADT**
+- [**Hands-on Activity 9.1 Tree ADT**]()
   * *Topics Covered:* Binary Search Trees (BST), adding/deleting nodes, searching, and doing in-order, pre-order, and post-order traversals.
-
 
 ---
 
 ### >> Finals Period
 
-- **Hands-on Activity 10.1 Graphs**
+- [**Hands-on Activity 10.1 Graphs**]()
   * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
-- **Hands-on Activity 11.1 Basic Algorithm Analysis**
+- [**Hands-on Activity 11.1 Basic Algorithm Analysis**]()
   * *Topics Covered:* Big-O, Big-Omega, and Big-Theta notation, and figuring out time and space complexity like O(1), O(n), and O(n^2).
-- **Hands-on Activity 12.1 Algorithmic Strategies**
+- [**Hands-on Activity 12.1 Algorithmic Strategies**]()
   * *Topics Covered:* Problem-solving techniques including divide-and-conquer, greedy algorithms, dynamic programming, and backtracking.
-- **Hands-on Activity 13.1 Parallel Algorithms and Multithreading**
+- [**Hands-on Activity 13.1 Parallel Algorithms and Multithreading**]()
   * *Topics Covered:* Multithreading basics, splitting tasks across threads, managing concurrency, and measuring speedup.
-- **Hands-on Activity 14.1 Algorithm Complexity**
+- [**Hands-on Activity 14.1 Algorithm Complexity**]()
   * *Topics Covered:* Timing code execution manually, testing algorithms against different dataset sizes, and checking if real runtimes match theoretical Big-O.
 
 ---
+
+## > [Laboratory Activity Templates]()
+### >> [Prelim Period]()
+
+- [**Hands-on Activity 1.1 Basic C++ Programming**]()
+- [**Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation**]()
+- [**Hands-on Activity 3.1 Linked Lists**]()
+- [**Hands-on Activity 4.1 Stacks**]()
+- [**Hands-on Activity 5.1 Queues**]()
+
+---
+
+### >> Midterm Period
+
+- [**Hands-on Activity 6.1 Searching Techniques**]()
+- [**Hands-on Activity 7.1 Sorting Algorithms Pt1**]()
+- [**Hands-on Activity 8.1 Sorting Algorithms Pt2**]()
+- [**Hands-on Activity 9.1 Tree ADT**]()
+
+---
+
+### >> Finals Period
+- [**Hands-on Activity 10.1 Graphs**]()
+- [**Hands-on Activity 11.1 Basic Algorithm Analysis**]()
+- [**Hands-on Activity 12.1 Algorithmic Strategies**]()
+- [**Hands-on Activity 13.1 Parallel Algorithms and Multithreading**]()
+- [**Hands-on Activity 14.1 Algorithm Complexity**]()
