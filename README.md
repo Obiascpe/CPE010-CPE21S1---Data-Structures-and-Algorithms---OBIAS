@@ -34,35 +34,53 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 ```
 CPE 010: Data Structures and Algorithms
 ├── Laboratory Activities
+│   ├── PRELIM/
+│   │   ├── HOA1.1/
+│   │   │   ├── HOA.pdf
+│   │   │   ├── ILO.cpp
+│   │   │   └── ILO.h
+│   │   ├── HOA2.1/
+│   │   ├── HOA3.1/
+│   │   ├── HOA4.1/
+│   │   └── HOA5.1/
+│   ├── MIDTERM/
+│   │   ├── HOA6.1/
+│   │   │   ├── HOA.pdf
+│   │   │   ├── ILO.cpp
+│   │   │   └── ILO.h
+│   │   ├── HOA7.1/
+│   │   ├── HOA8.1/
+│   │   └── HOA9.1/
+│   └── FINALS/
+│       ├── HOA10.1/
+│       │   ├── HOA.pdf
+│       │   ├── ILO.cpp
+│       │   └── ILO.h
+│       ├── HOA11.1/
+│       ├── HOA12.1/
+│       ├── HOA13.1/
+│       └── HOA14.1/
+└── Laboratory Templates
+    ├── PRELIM/
+    │   ├── HOA1.1
+    │   ├── HOA2.1
+    │   ├── HOA3.1
+    │   ├── HOA4.1
+    │   └── HOA5.1
+    ├── MIDTERM/
+    │   ├── HOA6.1
+    │   ├── HOA7.1
+    │   ├── HOA8.1
+    │   └── HOA9.1
+    └── FINALS/
+        ├── HOA10.1
+        ├── HOA11.1
+        ├── HOA12.1
+        ├── HOA13.1
+        └── HOA14.1
 ```
 ```
-CPE 010: Data Structures and Algorithms
-├── PRELIM/
-│   ├── HOA1.1/
-│   │   ├── HOA.pdf
-│   │   ├── ILO.cpp
-│   │   └── ILO.h
-│   ├── HOA2.1/
-│   ├── HOA3.1/
-│   ├── HOA4.1/
-│   └── HOA5.1/
-├── MIDTERM/
-│   ├── HOA6.1/
-│   │   ├── HOA.pdf
-│   │   ├── ILO.cpp
-│   │   └── ILO.h
-│   ├── HOA7.1/
-│   ├── HOA8.1/
-│   └── HOA9.1/
-├── FINALS/
-│   ├── HOA10.1/
-│   │   ├── HOA.pdf
-│   │   ├── ILO.cpp
-│   │   └── ILO.h
-│   ├── HOA11.1/
-│   ├── HOA12.1/
-│   ├── HOA13.1/
-│   └── HOA14.1/
+
 └── 
     ├── HOA10.1/
     │   ├── HOA.pdf
