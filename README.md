@@ -138,16 +138,12 @@ CPE 010: Data Structures and Algorithms
 - **Hands-on Activity 4.1 Stacks**
 - **Hands-on Activity 5.1 Queues**
 
----
-
 ### >> [Midterm Period]()
 
 - **Hands-on Activity 6.1 Searching Techniques**
 - **Hands-on Activity 7.1 Sorting Algorithms Pt1**
 - **Hands-on Activity 8.1 Sorting Algorithms Pt2**
 - **Hands-on Activity 9.1 Tree ADT**
-
----
 
 ### >> [Finals Period]()
 - **Hands-on Activity 10.1 Graphs**
