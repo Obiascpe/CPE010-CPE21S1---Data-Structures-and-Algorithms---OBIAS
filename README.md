@@ -116,13 +116,13 @@ CPE 010: Data Structures and Algorithms
 
 ### >> [Finals Period](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/FINALS)
 
-- [**Hands-on Activity 10.1 Graphs**]()
+- [**Hands-on Activity 10.1 Graphs**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/FINALS/HOA10.1)
   * *Topics Covered:* Storing graphs using adjacency matrices and adjacency lists, directed vs. undirected graphs, and BFS/DFS traversals.
-- [**Hands-on Activity 11.1 Basic Algorithm Analysis**]()
+- [**Hands-on Activity 11.1 Basic Algorithm Analysis**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/FINALS/HOA11.1)
   * *Topics Covered:* Big-O, Big-Omega, and Big-Theta notation, and figuring out time and space complexity like O(1), O(n), and O(n^2).
-- [**Hands-on Activity 12.1 Algorithmic Strategies**]()
+- [**Hands-on Activity 12.1 Algorithmic Strategies**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/FINALS/HOA12.1)
   * *Topics Covered:* Problem-solving techniques including divide-and-conquer, greedy algorithms, dynamic programming, and backtracking.
-- [**Hands-on Activity 13.1 Parallel Algorithms and Multithreading**]()
+- [**Hands-on Activity 13.1 Parallel Algorithms and Multithreading**](https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/FINALS/HOA13.1)
   * *Topics Covered:* Multithreading basics, splitting tasks across threads, managing concurrency, and measuring speedup.
 - [**Hands-on Activity 14.1 Algorithm Complexity**]()
   * *Topics Covered:* Timing code execution manually, testing algorithms against different dataset sizes, and checking if real runtimes match theoretical Big-O.
