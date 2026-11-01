@@ -62,22 +62,22 @@ Hands-on-Activities/
 │       └── hoa14.1/
 └── templates/
     ├── prelim/
-    │   ├── hoa1.1/
-    │   ├── hoa2.1/
-    │   ├── hoa3.1/
-    │   ├── hoa4.1/
-    │   └── hoa5.1/
+    │   ├── hoa1.1
+    │   ├── hoa2.1
+    │   ├── hoa3.1
+    │   ├── hoa4.1
+    │   └── hoa5.1
     ├── midterm/
-    │   ├── hoa6.1/
-    │   ├── hoa7.1/
-    │   ├── hoa8.1/
-    │   └── hoa9.1/
+    │   ├── hoa6.1
+    │   ├── hoa7.1
+    │   ├── hoa8.1
+    │   └── hoa9.1
     └── finals/
-        ├── hoa10.1/
-        ├── hoa11.1/
-        ├── hoa12.1/
-        ├── hoa13.1/
-        └── hoa14.1/
+        ├── hoa10.1
+        ├── hoa11.1
+        ├── hoa12.1
+        ├── hoa13.1
+        └── hoa14.1
 ```
 
 **NOTE:** This section shows how the repository is split into two main sections: **Activities** for my completed lab submissions and **Templates** for the base code/guides. Each activity directory inside <code>prelim</code>, <code>midterm</code>, and <code>finals</code> includes the PDF report along with the <code>.cpp</code> and <code>.h</code> files used for that task.
