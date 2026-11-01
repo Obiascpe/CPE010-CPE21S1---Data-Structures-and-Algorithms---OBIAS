@@ -80,7 +80,7 @@ CPE 010: Data Structures and Algorithms
         └── HOA14.1
 ```
 
-**NOTE:** This section displays the complete repository structure divided into Laboratory Activities and Laboratory Templates for the PRELIM, MIDTERM, and FINALS periods. Under Laboratory Activities, each hands-on activity folder (`HOA`) contains the official submission documentation (`HOA.pdf`), C++ source code (`ILO.cpp`), and header files (`ILO.h`), while the Laboratory Templates directory holds the starter code and activity guides for each term.
+**NOTE:** This section shows the repository structure split into Laboratory Activities and Laboratory Templates across Prelim, Midterm, and Finals. The Laboratory Activities folder contains my submitted documentation (HOA.pdf) along with my C++ source (ILO.cpp) and header (ILO.h) files, while Laboratory Templates holds the starter code and activity guides for each term.
 
 ---
 
