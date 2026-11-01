@@ -34,7 +34,7 @@ This repository contains the laboratory outputs and hands-on activities for **CP
 ```
 CPE 010: Data Structures and Algorithms
 ├── Laboratory Activities
-│   ├── PRELIM/
+│   ├── Prelim/
 │   │   ├── HOA1.1/
 │   │   │   ├── HOA.pdf
 │   │   │   ├── ILO.cpp
@@ -43,7 +43,7 @@ CPE 010: Data Structures and Algorithms
 │   │   ├── HOA3.1/
 │   │   ├── HOA4.1/
 │   │   └── HOA5.1/
-│   ├── MIDTERM/
+│   ├── Midterm/
 │   │   ├── HOA6.1/
 │   │   │   ├── HOA.pdf
 │   │   │   ├── ILO.cpp
@@ -51,7 +51,7 @@ CPE 010: Data Structures and Algorithms
 │   │   ├── HOA7.1/
 │   │   ├── HOA8.1/
 │   │   └── HOA9.1/
-│   └── FINALS/
+│   └── Finals/
 │       ├── HOA10.1/
 │       │   ├── HOA.pdf
 │       │   ├── ILO.cpp
@@ -130,7 +130,7 @@ CPE 010: Data Structures and Algorithms
 ---
 
 ## > Laboratory Templates
-### >> [Prelim Period]()
+### >> [PRELIM]()
 
 - **Hands-on Activity 1.1 Basic C++ Programming**
 - **Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation**
@@ -138,14 +138,14 @@ CPE 010: Data Structures and Algorithms
 - **Hands-on Activity 4.1 Stacks**
 - **Hands-on Activity 5.1 Queues**
 
-### >> [Midterm Period]()
+### >> [MIDTERM]()
 
 - **Hands-on Activity 6.1 Searching Techniques**
 - **Hands-on Activity 7.1 Sorting Algorithms Pt1**
 - **Hands-on Activity 8.1 Sorting Algorithms Pt2**
 - **Hands-on Activity 9.1 Tree ADT**
 
-### >> [Finals Period]()
+### >> [FINALS]()
 - **Hands-on Activity 10.1 Graphs**
 - **Hands-on Activity 11.1 Basic Algorithm Analysis**
 - **Hands-on Activity 12.1 Algorithmic Strategies**
