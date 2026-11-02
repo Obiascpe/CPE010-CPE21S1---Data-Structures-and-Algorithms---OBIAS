@@ -214,11 +214,11 @@ Hands-on-Activities/
     </tr>
   </thead>
   <tbody>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa1.1">Hands-on Activity 1.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa2.1">Hands-on Activity 2.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa3.1">Hands-on Activity 3.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa4.1">Hands-on Activity 4.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa5.1">Hands-on Activity 5.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa1.1"> Hands-on Activity 1.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa2.1"> Hands-on Activity 2.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa3.1"> Hands-on Activity 3.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa4.1"> Hands-on Activity 4.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/prelim/hoa5.1"> Hands-on Activity 5.1 Template</a></td></tr>
   </tbody>
 </table>
 
@@ -236,10 +236,10 @@ Hands-on-Activities/
     </tr>
   </thead>
   <tbody>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa6.1">Hands-on Activity 6.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa7.1">Hands-on Activity 7.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa8.1">Hands-on Activity 8.1 Template</a></td></tr>
-    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa9.1">Hands-on Activity 9.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa6.1"> Hands-on Activity 6.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa7.1"> Hands-on Activity 7.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa8.1"> Hands-on Activity 8.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/midterm/hoa9.1"> Hands-on Activity 9.1 Template</a></td></tr>
   </tbody>
 </table>
 
@@ -258,4 +258,8 @@ Hands-on-Activities/
   </thead>
   <tbody>
     <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/finals/hoa10.1">Hands-on Activity 10.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/finals/hoa10.1">Hands-on Activity 11.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/finals/hoa10.1">Hands-on Activity 12.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/finals/hoa10.1">Hands-on Activity 13.1 Template</a></td></tr>
+    <tr><td><a href="https://github.com/Obiascpe/CPE010-CPE21S1---Data-Structures-and-Algorithms---OBIAS/tree/main/templates/finals/hoa10.1">Hands-on Activity 14.1 Template</a></td></tr>
     <tr><td><a href="
